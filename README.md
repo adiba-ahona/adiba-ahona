@@ -4,11 +4,15 @@
   <h1>Hi, I'm Adiba Anbar Ahona</h1>
 
   <p>
-    <strong>AI/ML Engineer | MSc Artificial Intelligence | Full-Stack AI Developer</strong>
+    <strong>AI/ML Engineer | MSc Artificial Intelligence | Full-Stack AI Developer | Researcher</strong>
   </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Building+digital+experiences+💻;Driven+by+curiosity+🚀;Always+learning+something+new!" />
+</p>
+
   <p>
-    🚀 Building production-grade AI systems spanning NLP, Computer Vision, Generative AI, Speech Recognition,
+    Building production-grade AI systems spanning NLP, Computer Vision, Generative AI, Speech Recognition,
     and Intelligent Agents. Passionate about solving real-world problems with machine learning.
   </p>
 
@@ -175,13 +179,9 @@ Collection of image processing and deep learning applications including object d
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adiba-ahona&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-ahona&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiba-ahona&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -202,8 +202,8 @@ I'm actively looking for **AI Engineering**, **Machine Learning Engineering**, a
 - Collaborative projects in open-source AI
 
 📧 **Email:** adiba.ahona.work@gmail.com  
-💼 **GitHub:** [@adiba-ahona](https://github.com/adiba-ahona)  
-🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/adiba-ahona)
+💼 **GitHub:** [adiba-ahona](https://github.com/adiba-ahona)  
+🔗 **LinkedIn:** [Adiba Anbar Ahona](https://linkedin.com/in/adiba-ahona)
 
 ---
 
@@ -216,6 +216,10 @@ I'm actively looking for **AI Engineering**, **Machine Learning Engineering**, a
 📚 **Continuous Learner** – Always exploring cutting-edge AI technologies  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adiba-ahona&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
+</p>
+
 
 <div align="center">
   <sub>Building intelligent systems, one model at a time. Exploring the frontier of AI & ML.</sub>
